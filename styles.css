@@ -8,9 +8,15 @@ h1 {
     font-family: 'Red-Mono-Family', monospace;
     font-weight: 300;
     color: white;
-    text-align: center;
 }
 
 body {
-    background-image: url("assets/back.jpg");
+    background-image: url("assets/back.png");
+}
+
+.title {
+    color: white;
+}
+.subtitle {
+    color: #878588;
 }
