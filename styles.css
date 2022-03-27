@@ -1,9 +1,16 @@
 p {
     font-family: 'Red-Mono-Family', monospace;
-    font-weight: 300
+    font-weight: 300;
+    color: white;
 }
 
 h1 {
     font-family: 'Red-Mono-Family', monospace;
-    font-weight: 300
+    font-weight: 300;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-image: url("assets/back.jpg");
 }
