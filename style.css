@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #313131;
+}
+
+.title {
+    color: blue;
+    background-color: #4affaf;
+    padding: 40px;
+}
+
+.title h1 {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    text: 40px
+}
+
+.navbar {
+    color: #ececec;
+    padding: 20px;
+}
+
+.navbar h1 {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 200;
+    text: 15px
+}
+
+.content {
+    background-color: #313131;
+    color: #ececec;
+    padding: 20px;
+}
+
+.content h1 {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 400;
+    text: 15px
+}
+
+.content h2 {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 200;
+    text: 20px
+}
+
+.content p {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 300;
+    text: 16px
+}
